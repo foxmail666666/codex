@@ -9,7 +9,7 @@ If you want Codex in your code editor (VS Code, Cursor, Windsurf), <a href="http
 
 ---
 
-## Quickstart
+## Quickstart gogogo
 
 ### Installing and running Codex CLI
 
